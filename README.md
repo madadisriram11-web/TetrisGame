@@ -13,3 +13,24 @@ Components:
 - Elegoo R3 - microcontroller to make the decisions
 - KY-023 - a joystick module to move around in the game
 - 3 buttons - Start/Pause, Stop, and Store
+
+| Parts | Cost | Link |
+| -- | -- | -- |
+| LED Matrix | 5.14 | https://www.aliexpress.us/item/3256809331650630.html?spm=a2g0o.productlist.main.1.70586e5fOd89oH&algo_pvid=d34a3f2e-d804-47bb-8dc9-572daf4b6ca5&algo_exp_id=d34a3f2e-d804-47bb-8dc9-572daf4b6ca5-0&pdp_ext_f=%7B%22order%22%3A%221659%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.27%211.09%21%21%2115.04%217.22%21%402101e81117931574604535356e0f4b%2112000049440246878%21sea%21US%218335656895%21ABX%211%210%21n_tag%3A-29910%3Bd%3A1092fe7e%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165390&curPageLogUid=WUCpfoWk1nqT&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009517965382%7C_p_origin_prod%3A |
+| K-023 | 1.27 | https://www.aliexpress.us/item/3256807375670744.html?spm=a2g0o.productlist.main.39.7f9d4953xyiMto&algo_pvid=55e7b37d-518e-4a92-9713-0516b53cf7b4&algo_exp_id=55e7b37d-518e-4a92-9713-0516b53cf7b4-36&pdp_ext_f=%7B%22order%22%3A%22612%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.27%211.09%21%21%218.46%217.27%21%402103094f17931560303511848e100f%2112000041302774768%21sea%21US%218335656895%21ABX%211%210%21n_tag%3A-29910%3Bd%3A1092fe7e%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165390&curPageLogUid=M9Yqlv70qaB2&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007561985496%7C_p_origin_prod%3A |
+| Push Button |  5.45 | https://www.aliexpress.us/item/3256807374490132.html?spm=a2g0o.productlist.main.1.551dae60TmSb3F&algo_pvid=57648f62-689d-4d18-99bc-03d4cc9a86e3&algo_exp_id=57648f62-689d-4d18-99bc-03d4cc9a86e3-0&pdp_ext_f=%7B%22order%22%3A%22163%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.93%211.09%21%21%2119.44%217.23%21%402101ca9517931561748965794e0f93%2112000041298713238%21sea%21US%218335656895%21ABX%211%210%21n_tag%3A-29910%3Bd%3A1092fe7e%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165390&curPageLogUid=mKsJcnvIrXbG&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007560804884%7C_p_origin_prod%3A |
+| Arduino Cable | 1.19 | https://www.aliexpress.com/item/3256806285070203.html?spm=a2g0o.cart.0.0.1f9338datNJIVn&mp=1&pdp_npi=6%40dis%21USD%21USD%201.19%21USD%201.19%21%21USD%201.19%21%21%21%402101d2e717933267820634157e0ed9%2112000037318716296%21ct%21US%218335656895%21%211%210%21&_gl=1*xqpnrw*_gcl_aw*R0NMLjE3OTI1NDc0MTUuQ2p3S0NBandvdHpXQmhCRkVpd0ExSmhQb0tsRFM4bVpmOGwxV2ZSdjlUZnB0TlgxVVhyYmhIaHE2LUthR0xkMHNRODBhNWFjakZmMXF4b0N5dFFRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3OTI1NDc0MTUuQ2p3S0NBandvdHpXQmhCRkVpd0ExSmhQb0tsRFM4bVpmOGwxV2ZSdjlUZnB0TlgxVVhyYmhIaHE2LUthR0xkMHNRODBhNWFjakZmMXF4b0N5dFFRQXZEX0J3RQ..*_gcl_au*NDQ2OTgwMTk3LjE3OTE1MDk0ODI.*_ga*MTcwNTgwODM1OS4xNzkyMzczMjg2*_ga_VED1YSGNC7*czE3OTMzMjM4MTAkbzIzJGcxJHQxNzkzMzI2NzY2JGoxNiRsMCRoMA.. |
+| PLA | 11.80 | https://www.aliexpress.us/item/3256807816085310.html?spm=a2g0o.productlist.main.25.9b9f1c93VTn6bx&algo_pvid=25cb874d-84a2-4699-88f7-16edb7502ee7&algo_exp_id=25cb874d-84a2-4699-88f7-16edb7502ee7-24&pdp_ext_f=%7B%22order%22%3A%2254%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2111.74%211.09%21%21%2111.74%211.09%21%402101de2517935747208975835e0ecb%2112000043225142143%21sea%21US%218335656895%21ABX%211%210%21n_tag%3A-29910%3Bd%3A1092fe7e%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165391&curPageLogUid=oBmUW6GVDH0j&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008002400062%7C_p_origin_prod%3A |
+| Capacitors | 2.13 | https://www.aliexpress.us/item/3256805701953021.html?spm=a2g0o.productlist.main.53.61a5571eGOcBPh&algo_pvid=366a127f-0c8c-44ec-8738-8fd4220dadf7&algo_exp_id=366a127f-0c8c-44ec-8738-8fd4220dadf7-50&pdp_ext_f=%7B%22order%22%3A%22159%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.13%211.09%21%21%212.13%211.09%21%402101d3fe17935847199788794e0d8a%2112000034714871560%21sea%21US%218335656895%21ABX%211%210%21n_tag%3A-29910%3Bd%3A1092fe7e%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165384&curPageLogUid=pO3pMXg24h9M&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005888267773%7C_p_origin_prod%3A |
+
+
+| Pin # | Component |
+| -- | -- |
+| D2 | Push Button 1 |
+| D4 | Push Button 2 |
+| D5 | Push Button 3 |
+| A0 | KY-023 VRX |
+| A1 | KY-023 VRY |
+| D10 | LED Matrix CS |
+| D12 | LED Matrix DIN |
+| SDA | LED Matrix CLK |
